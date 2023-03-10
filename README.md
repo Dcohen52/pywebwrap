@@ -1,7 +1,11 @@
 # PyWebWrap
-
 PyWebWrap is a package that allows you to run your web app easily on the desktop.
 
+To install `pywebwrap`, simply run the following command in your terminal:
+
+`pip install pywebwrap`
+
+---
 Supported features:
  - Run local web core files within a desktop wrapper.
  - Customize the window's title, icon, width, height, and other parameters easily.
